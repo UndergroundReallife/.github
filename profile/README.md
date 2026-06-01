@@ -1,14 +1,6 @@
 # UndergroundReallife (Offizielles Repo)
 
-Willkommen auf dem offiziellen GitHub Repo des GTA Roleplay Server UndergroundReallife
-
-* [Allgemeines](#allgemeines)
-* [Serverteam](#serverteam)
-* [Copyright](#copyright)
-
-
-## Allgemeines
-UndergroundReallife ist ein *GTA 5 Roleplay Server*. Dies in diesem Githubprofil vorhandenes Framwork wurde für FiveM entwickelt.
+Willkommen auf dem offiziellen GitHub Repo des GTA Roleplay Server *UndergroundReallife*. Die in diesem Repo vorhandene Framwork wurde für FiveM entwickelt.
 
 Für weitere Informationen zu unserem Projekt, besuche bitte unsere [Webseite](https://undergroundreallife.de/).
 
